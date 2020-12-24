@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  flex-direction: column;
+}
+
+
+body {
+  background-color: rgb(244, 236, 244);
+}
+
+.star-rating-filled {
+  fill: gold;
+}
+
+.star-rating-blank {
+  fill: #d8d8d8;
+}
+
+.flex-container {
+  display: flex;
+}
+
